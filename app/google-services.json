@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "282136888766",
+    "firebase_url": "https://tahsilatlar-32ecb.firebaseio.com",
+    "project_id": "tahsilatlar-32ecb",
+    "storage_bucket": "tahsilatlar-32ecb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282136888766:android:0a5dfcb124eeb3ff",
+        "android_client_info": {
+          "package_name": "com.muhasebe.tahsilatlar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282136888766-363gc7go5h8io77lrhfno5are94lru5d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muhasebe.tahsilatlar",
+            "certificate_hash": "b9e7e340b0cf842fa053366f3738f581c80d1520"
+          }
+        },
+        {
+          "client_id": "282136888766-m63vpte3b998fjkkrabl3lfpncl0afp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0VsyLHpyKhR_ZKJ0Iq04qfRRZ0DmtABc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282136888766-m63vpte3b998fjkkrabl3lfpncl0afp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
